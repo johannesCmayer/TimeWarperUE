@@ -3,7 +3,7 @@ This project is a small game prototype mode in the Unreal engine, where you have
 
 This prototype was developed by me over the course of three days in 2017.
 
-[Click here for a longer gameplay video](https://youtu.be/WMsE8JVw_I8)
+[Click here for a longer gameplay video.](https://youtu.be/WMsE8JVw_I8)
 
 <img src="TimeWarperUE-shortA.gif" alt="gif"/>
 <img src="TimeWarperUE-shortB.gif" alt="gif"/>
